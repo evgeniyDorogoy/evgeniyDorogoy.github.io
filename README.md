@@ -38,6 +38,12 @@ bundler init && bundler config set --local path 'vendor/bundle'
 bundler add jekyll
 ```
 
+5. Create new `src` directory inside of the project directory, cd into it and init `Jekyll`:
+
+```bash
+mkdir src && cd src && jekyll new --skip-bundle .
+```
+
 ## TODO
 
 1. Rename this github repo with lowercase letters only
