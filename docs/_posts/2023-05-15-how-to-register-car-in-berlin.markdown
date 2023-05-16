@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  How to register car in Berlin
+author: Evgeniy Dorogoy
 date:   2023-05-15 13:00:00 +0200
+permalink: /posts/how-to-register-car-in-berlin
 ---
 1. [Preface](#preface)
 2. [Context](#context)
@@ -10,7 +12,7 @@ date:   2023-05-15 13:00:00 +0200
 ### Preface
 If you've ever found yourself driving through Germany with a car registered in a non-EU country, you may have 
 encountered the daunting task of legalizing it. While there are countless guides online that offer vague advice 
-such as "get a CoC from the dealer" or "pass a technical inspection at TÜV," 
+such as get a ***CoC from the dealer*** or pass a ***technical inspection at TÜV***, 
 these resources often leave you with more questions than answers. These tips are not particularly helpful when you 
 don't know where to start or what to expect.
 
@@ -24,19 +26,54 @@ with car registration in Germany was specific to my circumstances (let's call it
 which I will outline below.
 
 ### Context
-I have registered a Mazda 6 GJ with a diesel engine, which was previously imported into Ukraine by 
+I have registered a ***Mazda 6 GJ*** with a diesel engine, which was previously imported into Ukraine by 
 an official importer. The car has its stock equipment, without any additional tuning, spare parts, or custom features. 
 The rear passenger windows and rear window have tinting.
 
 In Ukraine, a tow hitch was installed as an additional feature. However, it did not cause any issues during the 
 technical inspection here. 
 
-The car was imported as personal goods, and therefore, no custom taxes were paid. The place of registration was Berlin.
+The car was imported ***as personal goods***, and therefore, no custom taxes were paid. 
+The place of registration was ***Berlin***.
 
 It is worthwhile to mention that the cars like mine generally meet the EU norms for lighting equipment, mirrors, 
 and other requirements. However, there may be a different situation for popular ukrainian trend, such as buying used 
 and damaged cars from the USA, repairing them, and registering them in Ukraine. While I cannot speak from experience 
-about registering such cars in Germany, I recommend this article from someone who registered their 
-US Subaru as a [reference](http://crankydriver.com/word/are-you-tuv-enough-2){:target="_blank"}{:rel="noopener noreferrer"}
+about registering such cars in Germany, I recommend this article from someone who ***registered their 
+US Subaru*** as a [reference](http://crankydriver.com/word/are-you-tuv-enough-2){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### What you need to take care in the origin country
+When registering your car in Berlin, there are two important documents you will need to obtain from your origin 
+country: ***proof of accident-free driving history*** from your insurance company (if applicable) and 
+a ***Certificate of Conformity*** (CoC) for your car from the official car importer. Let's delve into these 
+documents in more detail.
+
+In Germany, there is a system known as ***Schadenfreiheitsklasse*** or ***SF-Klasse*** for short, which translates to 
+***no-claim class***. 
+
+The SF-Klasse represents the number of years without any accidents or the accident history 
+associated with your insurance policy. A driver who has recently obtained their license or has no prior insurance 
+history will have an SF class of 0. 
+
+This means that their ***insurance premium*** or ***Beitragssatz*** will be 
+above 100%, indicating that they have to pay the full insurance cost without any discounts. 
+
+As a new driver, it is highly likely that you will be classified under this category. The longer you drive without 
+any accidents, the higher your SF-Klasse becomes, and the cheaper your insurance costs will be (up to a maximum of SF 35). 
+Each accident-free year leads to a decrease in the insurance cost, starting  from 100%. For instance, in your first 
+year of accident-free driving, you can gain an SF class of 1, resulting in a decrease in insurance costs to a 
+range of 65%-100%. Here is how my insurer [describes this things](https://www.huk24.de/autoversicherung/kfz-ratgeber/schadenfreiheitsklasse){:target="_blank"}{:rel="noopener noreferrer"}.  
+
+Transferring your SF-Klasse from another German insurance company or even from an insurance company in the EU is 
+relatively straightforward. Some insurance companies are willing to accept proof of accident-free driving experience 
+from non-EU countries, including Ukraine. If, for example, you have had five accident-free years in Ukraine, you can 
+apply for an SF-Klasse of 5, allowing you to save some money on your insurance premiums.
+
+Fortunately, I was fortunate enough to have been using only one insurance company, ***ARX***, from 2018 to 2022. 
+This made it easier for me to write a letter to [their customer support](https://arx.com.ua/kontakty){:target="_blank"}{:rel="noopener noreferrer"} 
+and inquire about the necessary proof. They promptly responded, [requesting an application](/assets/files/how_to_register_car_in_berlin/c3_request_for_accident_free_soot_confirmation.pdf){:target="_blank"}{:rel="noopener noreferrer"}, 
+my identification code, and passport information. 
+
+After a few weeks, I received the ***confirmation***, which I then forwarded to the German insurance company as required:
+
+![Response for accident free soot confirmation](/assets/images/how_to_register_car_in_berlin/c3_response_for_accident_free_soot_confirmation.jpg "Response for accident free soot confirmation")
