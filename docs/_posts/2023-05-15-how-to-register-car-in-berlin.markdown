@@ -97,7 +97,7 @@ owned the car for a while or, as in my situation, purchased an aftermarket car. 
 a certificate initially, but I will provide more detailed information about my experience later in this article. 
 As a general recommendation, I advise you to inquire about the CoC with your dealer.
 
-If you own a Mazda in Ukraine, like myself, you can contact [the official dealer](https://mazda.com.ua/mazda-na-pochaini/contacts) for assistance.
+If you own a Mazda in Ukraine, like myself, you can contact [the official dealer](https://mazda.com.ua/mazda-na-pochaini/contacts){:target="_blank"}{:rel="noopener noreferrer"} for assistance.
 I had to make two attempts to reach them, as the first employee informed me that they could not issue the 
 certificate for my car. However, the second employee had a better understanding of their dealership's procedures and 
 directed me to the person responsible for issuing such documents. Since I don't want to disclose any personal details 
