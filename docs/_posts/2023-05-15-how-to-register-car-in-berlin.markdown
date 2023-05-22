@@ -8,6 +8,7 @@ permalink: /posts/how-to-register-car-in-berlin
 1. [Preface](#preface)
 2. [Context](#context)
 3. [What you need to take care in the origin country](#what-you-need-to-take-care-in-the-origin-country)
+4. [Customs clearance](#customs-clearance)
 
 ### Preface
 If you've ever found yourself driving through Germany with a car registered in a non-EU country, you may have 
@@ -67,7 +68,8 @@ range of 65%-100%. Here is how my insurer [describes this things](https://www.hu
 Transferring your SF-Klasse from another German insurance company or even from an insurance company in the EU is 
 relatively straightforward. Some insurance companies are willing to accept proof of accident-free driving experience 
 from non-EU countries, including Ukraine. If, for example, you have had five accident-free years in Ukraine, you can 
-apply for an SF-Klasse of 5, allowing you to save some money on your insurance premiums.
+apply for an SF-Klasse of 4 (as far as I understand, from 0 to 4, which is 5 years in total), allowing you to save 
+some money on your insurance premiums.
 
 Fortunately, I was fortunate enough to have been using only one insurance company, ***ARX***, from 2018 to 2022. 
 This made it easier for me to write a letter to [their customer support](https://arx.com.ua/kontakty){:target="_blank"}{:rel="noopener noreferrer"} 
@@ -77,6 +79,13 @@ my identification code, and passport information.
 After a few weeks, I received the ***confirmation***, which I then forwarded to the German insurance company as required:
 
 ![Response for accident free soot confirmation](/assets/images/how_to_register_car_in_berlin/c3_response_for_accident_free_soot_confirmation.jpg "Response for accident free soot confirmation")
+
+During the confirmation process, I was given the option to request a hard copy. 
+I agreed and asked my friend in Ukraine if he could receive it in his mailbox. Although I'm unsure if he actually 
+received anything as almost a month has passed, I can confidently say that the electronic version sufficed 
+in my situation. My insurance company accepted the document, categorized me as an 4 SF-Klasse driver, and 
+recalculated my contract accordingly. As a result, I was able to save approximately 30% on the contract price. 
+Given the outcome, I would definitely recommend giving it a try.
 
 Another important aspect that can help you save money is obtaining a CoC. This document serves as proof that the 
 vehicle you own meets all the necessary technical requirements for ***EC Whole Vehicle Type Approval*** (EC-WVTA) 
@@ -103,3 +112,5 @@ certificate for my car. However, the second employee had a better understanding 
 directed me to the person responsible for issuing such documents. Since I don't want to disclose any personal details 
 here, it's possible that there are specific employees assigned to handle CoCs. Therefore, it is important to first 
 contact the dealer and be persistent. Now you can be certain that they have the capability to provide the CoC.
+
+### Customs clearance
