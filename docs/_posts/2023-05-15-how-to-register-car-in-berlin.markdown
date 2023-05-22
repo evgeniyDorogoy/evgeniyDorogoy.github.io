@@ -77,3 +77,29 @@ my identification code, and passport information.
 After a few weeks, I received the ***confirmation***, which I then forwarded to the German insurance company as required:
 
 ![Response for accident free soot confirmation](/assets/images/how_to_register_car_in_berlin/c3_response_for_accident_free_soot_confirmation.jpg "Response for accident free soot confirmation")
+
+Another important aspect that can help you save money is obtaining a CoC. This document serves as proof that the 
+vehicle you own meets all the necessary technical requirements for ***EC Whole Vehicle Type Approval*** (EC-WVTA) 
+at the time of its production. A car with a CoC is considered homologated for the European Union, 
+and this certificate holds validity in all EU Member States. Consequently, with a CoC, 
+you can register your car in any EU country.
+
+The CoC document contains crucial information about the vehicle, including its identification data 
+(such as ***make***, ***type/variant/version***, ***commercial name***, and ***VIN***), the name of the 
+vehicle manufacturer, the EC-WVTA number, and specific details regarding the vehicle's specifications and 
+characteristics (such as ***dimensions***, ***masses***, ***capacities***, and ***color***). Additionally, 
+it includes the official test results for ***noise***, ***exhaust emissions***, and ***fuel consumption*** 
+conducted in accordance with EU standards. Essentially, the CoC provides a comprehensive description of your car.
+
+To the best of my knowledge, when purchasing a newly manufactured car, the Certificate of Conformity (CoC) is typically 
+included in the document set provided upon signing the contract. However, this may not always be the case if you have 
+owned the car for a while or, as in my situation, purchased an aftermarket car. In my case, I did not receive such 
+a certificate initially, but I will provide more detailed information about my experience later in this article. 
+As a general recommendation, I advise you to inquire about the CoC with your dealer.
+
+If you own a Mazda in Ukraine, like myself, you can contact [the official dealer](https://mazda.com.ua/mazda-na-pochaini/contacts) for assistance.
+I had to make two attempts to reach them, as the first employee informed me that they could not issue the 
+certificate for my car. However, the second employee had a better understanding of their dealership's procedures and 
+directed me to the person responsible for issuing such documents. Since I don't want to disclose any personal details 
+here, it's possible that there are specific employees assigned to handle CoCs. Therefore, it is important to first 
+contact the dealer and be persistent. Now you can be certain that they have the capability to provide the CoC.
