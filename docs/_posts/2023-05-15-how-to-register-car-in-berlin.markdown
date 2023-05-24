@@ -119,5 +119,5 @@ limitations (such as the suitability of a diesel engine for Germany), I decided 
 cost-effective manner. The first step, which doesn't require any financial investment, is the customs clearance.
 Upon permanently relocating to Germany, I had the opportunity to bring along personal belongings. To my surprise, 
 I discovered that the car qualifies as a personal item, similar to my laptop, clothes, and two bicycles 
-(refer to the section on "private vehicles of any kind" for more details). Consequently, no taxes need to be paid 
-during the clearance process.
+(refer to the section on "private vehicles of any kind" for [more details](https://www.zoll.de/EN/Private-individuals/Staying-in-Germany/Transferring-residence/transferring-residence_node.html){:target="_blank"}{:rel="noopener noreferrer"}). 
+Consequently, no taxes need to be paid during the clearance process.
