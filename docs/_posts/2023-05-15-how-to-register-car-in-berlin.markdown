@@ -114,3 +114,10 @@ here, it's possible that there are specific employees assigned to handle CoCs. T
 contact the dealer and be persistent. Now you can be certain that they have the capability to provide the CoC.
 
 ### Customs clearance
+Due to uncertainties surrounding the registration process of my car, such as potential missing documents or technical 
+limitations (such as the suitability of a diesel engine for Germany), I decided to approach the steps in a 
+cost-effective manner. The first step, which doesn't require any financial investment, is the customs clearance.
+Upon permanently relocating to Germany, I had the opportunity to bring along personal belongings. To my surprise, 
+I discovered that the car qualifies as a personal item, similar to my laptop, clothes, and two bicycles 
+(refer to the section on "private vehicles of any kind" for more details). Consequently, no taxes need to be paid 
+during the clearance process.
