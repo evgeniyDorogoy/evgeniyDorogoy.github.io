@@ -52,3 +52,9 @@ mkdir src && cd src && jekyll new --skip-bundle .
 Having custom domain for github pages is a common practice, so 
 [here is](https://medium.com/@benwiz/how-to-deploy-github-pages-with-aws-route-53-registered-custom-domain-and-force-https-bbea801e5ea3) a good primer on how to do that:
 
+## Misc
+
+1. Default image size for the article:
+
+A4 794 x 1123 with 96 PPI
+

@@ -78,7 +78,7 @@ my identification code, and passport information.
 
 After a few weeks, I received the ***confirmation***, which I then forwarded to the German insurance company as required:
 
-![Response for accident free soot confirmation](/assets/images/how_to_register_car_in_berlin/c3_response_for_accident_free_soot_confirmation.jpg "Response for accident free soot confirmation")
+![Response for accident free soot confirmation](/assets/images/how_to_register_car_in_berlin/c3_response_for_accident_free_soot_confirmation.png "Response for accident free soot confirmation")
 
 During the confirmation process, I was given the option to request a hard copy. 
 I agreed and asked my friend in Ukraine if he could receive it in his mailbox. Although I'm unsure if he actually 
@@ -119,5 +119,53 @@ limitations (such as the suitability of a diesel engine for Germany), I decided 
 cost-effective manner. The first step, which doesn't require any financial investment, is the customs clearance.
 Upon permanently relocating to Germany, I had the opportunity to bring along personal belongings. To my surprise, 
 I discovered that the car qualifies as a personal item, similar to my laptop, clothes, and two bicycles 
-(refer to the section on "private vehicles of any kind" for [more details](https://www.zoll.de/EN/Private-individuals/Staying-in-Germany/Transferring-residence/transferring-residence_node.html){:target="_blank"}{:rel="noopener noreferrer"}). 
+(refer to the section on "private vehicles of any kind" from [more details](https://www.zoll.de/EN/Private-individuals/Staying-in-Germany/Transferring-residence/transferring-residence_node.html){:target="_blank"}{:rel="noopener noreferrer"}). 
 Consequently, no taxes need to be paid during the clearance process.
+
+Prior to custom visiting you need to fill the [custom declaration](https://www.formulare-bfinv.de/ffw/action/invoke.do?id=0350)
+(so called form 0350), which is quite easy to do. There is also an [english version](https://www.zoll.de/SharedDocs/Downloads/EN/FormulareMerkblaetter/Private-individuals/Staying-in-Germany/0350_2021_uebersetzungshilfe_en.pdf?__blob=publicationFile&v=6) 
+of the declaration, which you can use for wrapping yourself out what each item mean. I've prepared an example for you 
+with Marty on the main role:
+
+![Customs declaration](/assets/images/how_to_register_car_in_berlin/c3_custom_clearance_0350_1.png "Customs declaration")
+
+![Customs declaration](/assets/images/how_to_register_car_in_berlin/c3_custom_clearance_0350_2.png "Customs declaration")
+
+You may notice that the form consists of six pages. However, don't be alarmed! In our example, we will focus on 
+filling in the required information on just two pages. The remaining pages are duplicates intended for different 
+individuals involved in the customs process, and they will be automatically completed. Let's delve into the specific 
+details of each paragraph to ensure a clear understanding of the form.
+
+- Personal Information (2). In this section, you are required to provide your personal details, 
+including your first and last name, current address in Germany (where you will register), and your mobile phone number;
+
+ - Date of Relocation (3). Here, you need to enter the date of your relocation. It is recommended to use the date 
+stamped on your passport when you crossed the EU border;
+
+ - Address in the Country of Origin (4). This paragraph requires you to provide your address in the country 
+you are relocating from;
+
+ - Confirmation of Residency (6).  In this section, you are confirming that you have resided outside the EU customs 
+territory for at least one year. If this applies to you, toggle the corresponding option. You may be asked for 
+evidence, such as rental contracts, but it is worth noting that in my case, no proof was requested;
+
+ - Main Residence and Vehicle Information (8). By selecting this option, you are agreeing that your main residence 
+will be in Germany within six months. If you already have a residence in Germany, toggle this item accordingly. 
+Additionally, you need to provide the value of your car, which can be obtained from your Ukrainian car sales 
+contract. Convert the value from hryvnias to euros using the exchange rate of the National Bank of Ukraine on that 
+particular day. It is important to note that in my experience, no supporting documents were requested for this 
+information;
+
+ - Description of Car (10). In this paragraph, you need to provide detailed information about the goods that exceed 
+the value of 5000 euros. Since your car likely falls under this category, include the car plate number, model, 
+model year, and VIN code;
+
+ - Personal Use of Car (15). Here, you must indicate that the goods, specifically your car, are for personal use 
+only and not for business purposes;
+
+ - Certificate request (16). This is a crucial item on the form. By selecting this option, you are stating that 
+you require a certificate confirming that the customs office has no objections to registering your car.
+
+Remember, while some supporting documents may be requested, my personal experience demonstrates that not all details 
+require extensive proof.
+
