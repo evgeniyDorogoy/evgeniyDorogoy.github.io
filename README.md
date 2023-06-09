@@ -57,4 +57,5 @@ Having custom domain for github pages is a common practice, so
 1. Default image size for the article:
 
 A4 794 x 1123 with 96 PPI
+A4/2 397 x 662
 
