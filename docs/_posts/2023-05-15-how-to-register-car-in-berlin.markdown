@@ -242,3 +242,25 @@ I received the "HU-Plakette" when I visited the registration office (KFZ-Zulassu
 If the vehicle fails to meet the necessary standards, the owner must address the identified issues and arrange for 
 a re-inspection within a specified timeframe.
 
+My journey began with a visit to the [TUV website](https://www.tuv.com/germany/de/termin-pruefstelle/){:target="_blank"}{:rel="noopener noreferrer"}, where I hoped to find the necessary inspection for my vehicle. 
+As a novice in this process, I was unaware of the intricacies and distinctions between various inspections. 
+Consequently, I mistakenly opted for a basic technical inspection, which later proved to be an incorrect choice. 
+A few days later, when I arrived at Tyuv, I was disheartened to learn from the mechanic that a simple technical 
+inspection would not suffice for registration. Just as I was preparing to leave, a fortunate turn of events 
+occurred—an additional supervisor, fluent in Ukrainian, came forward to assist me. This kind-hearted individual 
+not only provided guidance on scheduling the appropriate inspection but also advised me on the required documentation. 
+Although I am unsure about the specific type of inspection associated with the recommended timeframe, 
+I speculate that it aligns with the illustration below.
+
+![Paragraph 21 inspection](/assets/images/how_to_register_car_in_berlin/c5_tuv_paragraph_21_inspection.png "Paragraph 21 inspection")
+
+Approximately a week later, I arrived at the designated appointment, where I met the correct expert for the inspection.
+The only one prerequisite for this instruction is a COC certificate, which I've described in the first chapter.
+Handing over the car keys, I patiently observed the proceedings. The inspection itself lasted around 20 minutes, 
+during which the aforementioned procedures and manipulations were meticulously performed on the vehicle
+
+![TUV inspection](/assets/images/how_to_register_car_in_berlin/c5_tuv_inspection.jpeg "TUV inspection")
+
+
+
+
